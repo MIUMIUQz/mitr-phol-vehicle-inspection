@@ -1,0 +1,7 @@
+{
+  "name": "Mitr Phol Vehicle Inspection",
+  "description": "Digital vehicle inspection checklist and summary reporting tool for tablet usage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
